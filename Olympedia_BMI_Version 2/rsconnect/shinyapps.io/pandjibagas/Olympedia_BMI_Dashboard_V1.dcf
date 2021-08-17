@@ -1,0 +1,14 @@
+name: Olympedia_BMI_Dashboard_V1
+title: Olympedia_BMI_Dashboard_V1
+username:
+account: pandjibagas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4447798
+bundleId: 4879722
+url: https://pandjibagas.shinyapps.io/Olympedia_BMI_Dashboard_V1/
+when: 1627906663.25639
+lastSyncTime: 1627906663.25641
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|BMI formula.png|Body Mass Index.png|bootstrap.min.css|Global Dashboard.Rmd|Olympedia BMI.Rmd|www/.DS_Store|www/BMI formula.png
